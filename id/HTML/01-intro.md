@@ -12,7 +12,7 @@ HTML digunakan untuk membuat struktur dari halam website, jika kita ibaratkan se
 
 HTML bukanlah sebuah bahasa pemrograman melainkan seperti namanya yaitu bahasa markup, lantas apa itu Markup Language ?
 
-Sederhananya, Markup language adalah bahasa yang penulisannya menggunakan "tanda-tanda". Seperti halnya marka jalan artinya tanda-tanda yang berfungsi untuk mengarue lalu-lintas dijalan, dimana setiap tanda memiliki maksud sendiri.
+Sederhananya, Markup language adalah bahasa yang penulisannya menggunakan "tanda-tanda". Seperti halnya marka jalan artinya tanda-tanda yang berfungsi untuk mengatur lalu-lintas di jalan, dimana setiap tanda memiliki maksud sendiri.
 
 Contoh lain: XML & YAML
 
