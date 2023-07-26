@@ -32,7 +32,7 @@ Fungsinya adalah untuk mewakili beberapa elemen void atau yang tidak memerlukan 
 Bentuk deklarasinya cukup sederhana, yaitu hampir sama dengan opening tag namun ditambah simbol / setelah tag name.
 
 ```html
-<-- Contoh -->
+<!-- Contoh -->
 <hr />
 <img src="..." />
 <input type="text" />
