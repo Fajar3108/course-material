@@ -17,3 +17,19 @@ Sederhananya, Markup language adalah bahasa yang penulisannya menggunakan "tanda
 Contoh lain: XML & YAML
 
 Pada HTML marka ini akan lebih dikenal dengan sebutan Tag
+
+## Mulai Bekerja dengan HTML
+
+Untuk mulai bekerja dengan HTML caranya sederhana, cukup membuat sebuah file dengan format **.html** kemudian file tersebut bisa langsung kita buka di browser
+
+Contoh:
+
+1. Buatlah file bernama **index.html**
+2. buka file tersebut di Code Editor
+3. Isi file tersebut dengan code singkat berikut ini
+
+```
+<h1>Hello World!</h1>
+```
+
+4. Buka file tersebut di web browser (bisa dengan click kanan dan open with chrome)
