@@ -1,7 +1,5 @@
 # Pengenalan HTML
 
-## Pengertian HTML
-
 HTML (Hyper Text Markup Language) adalah standard markup language yang digunakan untuk membuat struktur dari suatu halaman web.
 
 ## Fungsi HTML
