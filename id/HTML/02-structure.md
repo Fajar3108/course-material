@@ -1,5 +1,9 @@
 # Struktur HTML
 
+## Element
+
+Apa itu Element? Element adalah komponen-komponen dasar dari halaman web dan mendefinisikan bagaimana konten akan ditampilkan di browser. Contohnya seperti button, paragraph, heading dan masih banyak lagi
+
 ## Anatomy of HTML Element
 
 HTML terdiri dari beberapa elemen yang tersusun di dalam dokumen HTML. Secara anatomi, setiap elemen terdiri dari opening tag, content, dan closing tag. Di dalam opening tag terdapat atribut yang dapat diisi dengan nilai yang berbeda-beda.
